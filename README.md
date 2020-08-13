@@ -1,10 +1,9 @@
 ### Hi / Hello / Hola there 👋
 
+🌐 [www.renatofialho.com](https://www.renatofialho.com)
 
-🔭 I’m currently working as a Senior Software Engineer in Stockholm , SE for Klarna, mainly working with technologies such as Java, Spring Boot, Kafka and others.
+🔭 Currently working as a Senior Software Engineer in Stockholm , SE for [Klarna](http://www.klarna.com), with the current tech stack : Java 11, Spring Boot, Kafka, Docker, AWS (ECS, RDS, Cloudfront, SQS), PostgreSQL and others.
 
-🌱 I’m currently learning hybrid mobile development mainly focused in Flutter
-
-💬 Ask me about Java, Spring, AWS, Distributed Systems
+💬 Ask me about Java, Kotlin Spring, AWS Services , Distributed Systems, Event Driven Architecture
 
 📫 How to reach me: contact (at) renatofialho (dot) com
