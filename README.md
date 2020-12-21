@@ -16,9 +16,8 @@
   
   💼 [Linkedin][linkedin]
 
----
 
-### Languages and Tools
+## Languages and Tools
 
 <img align="left" src="https://simpleicons.org/icons/java.svg" alt="Java" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JS" height="40px" />
@@ -29,8 +28,12 @@
 <img align="left" src="https://simpleicons.org/icons/vue-dot-js.svg" alt="VueJS" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
- 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=fialhorenato&show_icons=true&locale=en&line_height=27" alt="xtenzq" />
+<br/>
+<br/>
+
+## Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fialhorenato&show_icons=true&locale=en&line_height=27" alt="xtenzq" />
 
 [website]: https://renatofialho.com
 [linkedin]: https://www.linkedin.com/in/renatofialho
