@@ -2,7 +2,7 @@
 
 <h3 align="center">A Software Engineer that transforms ☕ into code 💻 :wink:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fialhorenato&label=Profile%20views&color=0e75b6&style=flat" alt="xtenzq" /> </p>
+
   
   📍 Stockholm, SE
   
@@ -32,8 +32,8 @@
 <br/>
 
 ## Stats
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fialhorenato&show_icons=true&locale=en&line_height=27" alt="xtenzq" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fialhorenato&label=Profile%20views&color=0e75b6&style=flat" alt="fialhorenato" /> </p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fialhorenato&show_icons=true&locale=en&line_height=27" alt="fialhorenato" />
 
 [website]: https://renatofialho.com
 [linkedin]: https://www.linkedin.com/in/renatofialho
