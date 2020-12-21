@@ -1,14 +1,14 @@
-### Hi/Hello/Hola , Renato here 👋
+<h2 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Renato</h2>
 
 ---
 
-  I am a Software Engineer with 10 years of experience transforming coffee ☕ into code 💻 :wink:
+<h3 align="center">A Software Engineer that transforms ☕ into code 💻 :wink:</h3>
   
   📍 Stockholm, SE
   
   🔭 Currently working at [Klarna](http://www.klarna.com) as a Senior Software Engineer.
 
-  💬 Ask me about Full Stack Development, Java, Kotlin, Distributed Services, Event Driven Architecture, Cloud, and any Tech-related stuff.
+  💬 Ask me about Java, Kotlin, Python, Kafka, RabbitMQ, AWS, GCP, K8s
   
   📫 contact (at) renatofialho (dot) com
   
@@ -22,8 +22,6 @@
  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fialhorenato&show_icons=true&hide_border=true)
-
-Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/fialhorenato)
 
 [website]: https://renatofialho.com
 [linkedin]: https://www.linkedin.com/in/renatofialho
