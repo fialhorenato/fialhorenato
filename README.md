@@ -4,7 +4,7 @@
 
 
   
-  📍 Currently based in Amsterdam <img src="https://images.emojiterra.com/openmoji/v13.1/512px/1f1f3-1f1f1.png" width="15px"> working for [Hotmart][hotmart] 🔥
+  📍 Currently based in Amsterdam <img src="https://images.emojiterra.com/openmoji/v13.1/512px/1f1f3-1f1f1.png" width="15px">
   
   📫 [Contact me][contact-me]
   
