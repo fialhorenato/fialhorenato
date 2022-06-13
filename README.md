@@ -1,9 +1,8 @@
-<h3 align="center">Hello There!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20">, I'm Renato</h3>
+<h3 align="center">Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20"></h3>
+<h3 align="center">I'm Renato</h3>
 
 <h4 align="center">A Software Engineer that transforms ☕ into code 💻 :wink:</h4>
 
-
-  
   📍 Currently based in Amsterdam <img src="https://images.emojiterra.com/openmoji/v13.1/512px/1f1f3-1f1f1.png" width="15px">
   
   📫 [Contact me][contact-me]
