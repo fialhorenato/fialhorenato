@@ -1,4 +1,4 @@
-<h3 align="center">Hello There!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Renato</h3>
+<h3 align="center">Hello There!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20">, I'm Renato</h3>
 
 <h4 align="center">A Software Engineer that transforms ☕ into code 💻 :wink:</h4>
 
