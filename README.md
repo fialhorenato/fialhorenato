@@ -1,23 +1,51 @@
-<h3 align="center">Hello There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20" height="20"></h3>
-<h3 align="center">I'm Renato</h3>
+<div align="center">
 
-<h4 align="center">A Software Engineer that transforms ☕ into code 💻 :wink:</h4>
+<h1>Renato Fialho</h1>
+<p><strong>Software engineer · Amsterdam</strong></p>
+<p>Building reliable software with Java, Kotlin, Spring, PostgreSQL, Kafka, and AWS.</p>
 
-  📍 Currently based in Amsterdam <img src="https://images.emojiterra.com/openmoji/v13.1/512px/1f1f3-1f1f1.png" width="15px">
-  
-  📫 [Contact me][contact-me]
-  
-  🌍 [Blog][website]
-  
-  💼 [Linkedin][linkedin]
+<p>
+  <a href="https://www.renatofialho.com">🌐 Website</a> &nbsp;·&nbsp;
+  <a href="https://www.renatofialho.com/contact/">✉️ Contact</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/renatofialho">💼 LinkedIn</a>
+</p>
 
-### Stats
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fialhorenato&label=Profile%20views&color=0e75b6&style=flat" alt="fialhorenato" /> </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fialhorenato&show_icons=true&locale=en&line_height=27" alt="fialhorenato" />
+</div>
 
-[website]: https://renatofialho.com
-[linkedin]: https://www.linkedin.com/in/renatofialho
-[contact-me]: https://www.renatofialho.com/contact/
-[hotmart]: https://www.hotmart.com/
+<br />
 
+## A little about me
 
+I’m a software engineer based in Amsterdam. I enjoy designing dependable backend systems and sharing practical lessons from the things I build and learn.
+
+Before Booking.com, I worked on payment products at **Klarna**, **Toro Investimentos**, and **Hotmart**.
+
+## What I write about
+
+Notes and guides on backend engineering, Java and Kotlin, Spring, cloud infrastructure, and the occasional experiment with new tools.
+
+→ [Explore the blog](https://www.renatofialho.com/blog/)
+
+## Around GitHub
+
+<div align="center">
+
+<a href="https://github.com/fialhorenato?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-24292f?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" /></a>
+&nbsp;
+<a href="https://github.com/fialhorenato?tab=stars"><img src="https://img.shields.io/badge/Stars-What%20I%20like-24292f?style=for-the-badge&logo=github&logoColor=white" alt="See my starred repositories" /></a>
+
+</div>
+
+## Contribution activity
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/fialhorenato" alt="Renato's GitHub contribution graph" />
+
+</div>
+
+<br />
+
+<div align="center">
+<sub>Thanks for stopping by. Have a good one ☕</sub>
+</div>
