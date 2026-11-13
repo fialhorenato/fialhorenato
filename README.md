@@ -1,8 +1,8 @@
 <div align="center">
 
 <h1>Renato Fialho</h1>
-<p><strong>Software engineer · Amsterdam</strong></p>
-<p>Building reliable software with Java, Kotlin, Spring, PostgreSQL, Kafka, and AWS.</p>
+<p><strong>Staff-level Software Engineer · Amsterdam</strong></p>
+<p>Designing and building distributed, high-throughput systems that power real products.</p>
 
 <p>
   <a href="https://www.renatofialho.com">🌐 Website</a> &nbsp;·&nbsp;
@@ -14,17 +14,17 @@
 
 <br />
 
-## A little about me
+## Engineering focus
 
-I’m a software engineer based in Amsterdam. I enjoy designing dependable backend systems and sharing practical lessons from the things I build and learn.
+I work across the full path from system design to production, turning product needs into scalable backend platforms. My focus is distributed systems, high-throughput services, and the engineering practices that help teams evolve them safely.
 
-Before Booking.com, I worked on payment products at **Klarna**, **Toro Investimentos**, and **Hotmart**.
+My day-to-day toolkit includes **Java, Kotlin, Spring, PostgreSQL, Apache Kafka, and AWS**. I’ve also built payment products at **Klarna**, **Toro Investimentos**, and **Hotmart**.
 
-## What I write about
+## Writing & ideas
 
-Notes and guides on backend engineering, Java and Kotlin, Spring, cloud infrastructure, and the occasional experiment with new tools.
+I write about the problems behind the code: architecture trade-offs, backend engineering, cloud infrastructure, and lessons from building and operating software. The goal is to make complex topics useful to the engineers working through them.
 
-→ [Explore the blog](https://www.renatofialho.com/blog/)
+→ [Read the blog](https://www.renatofialho.com/blog/)
 
 ## Around GitHub
 
